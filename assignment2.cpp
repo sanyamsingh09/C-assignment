@@ -16,7 +16,7 @@ int main() {
     rev(str3);
     printf("In Reversed - %s\n", str3);
     
-    char str[][100] = {"Hello", "My", "Name", "Is", "Varun" };
+    char str[][100] = {"Hello", "My", "Name", "Is", "Sanyam" };
     sort(str, 5);
     printf("Sorted strings - ");
     for (int i = 0; i < 5; i++) {
